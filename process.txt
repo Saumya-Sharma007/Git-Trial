@@ -1,0 +1,5 @@
+Take user input.
+
+Process the data.
+
+Give the output.

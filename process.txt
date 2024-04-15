@@ -3,3 +3,5 @@ Take user input.
 Process the feature1 data.
 
 Give the feature1 output.
+
+Enter oracle database.

@@ -1,5 +1,5 @@
 Take user input.
 
-Process the data.
+Process the feature1 data.
 
-Give the output.
+Give the feature1 output.
